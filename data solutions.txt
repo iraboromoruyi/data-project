@@ -1,0 +1,2 @@
+data solutions for data wrangling
+we are going to create a data project that involves data manipulation and data cleaning.
