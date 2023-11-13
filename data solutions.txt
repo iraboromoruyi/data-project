@@ -3,4 +3,6 @@ we are going to create a data project that involves data manipulation and data c
 tools to be used
 python 
 sql
-data base
+data base 
+
+we can also use pyspark,hadoop,and some other big data technologies.
